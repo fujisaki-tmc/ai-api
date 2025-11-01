@@ -3,6 +3,8 @@
 
 export const GEMINI_API_KEY = "YOUR_API_KEY_HERE";
 
+//TEST
+
 // 使用方法:
 // 1. Google AI Studio (https://makersuite.google.com/app/apikey) でAPIキーを取得
 // 2. 上記の "YOUR_API_KEY_HERE" を実際のAPIキーに置き換える
